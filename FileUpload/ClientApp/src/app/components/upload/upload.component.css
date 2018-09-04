@@ -1,0 +1,18 @@
+.upload-container {
+  max-width: 300px;
+  margin-bottom: 15px;
+}
+
+.upload-spinner {
+  border: 5px solid #f3f3f3;
+  -webkit-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
+  border-top: 5px solid #555;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+}
+
+.upload-error {
+  color: red;
+}
