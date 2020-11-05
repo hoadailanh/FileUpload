@@ -1,13 +1,15 @@
 # File Upload with Asp .NET Core 2.1 and Angular 5
-This application allows a user to upload a xsl file. The app parses the file and display the content in a grid.
+This application allows a user to upload a csv file and visualize it in a browser.
 Tools used: Visual Studio 2017, Node.js, Angular5, Boostrap 4.1.3, ng-boostrap 1.1.2, Asp .NET Core 2.1 Web API
 ## Instructions
 Open FileUpload.sln in visual studio 2017. You should have node.js installed/integrated with VS 2017 for the UI app (angular 5) to download package dependencies. 
-Run the app: Build the solution and select FileUpload project as your startup project and run it using ISS in visual studio
+Run the app (both UI and API): Build the solution and select FileUpload project as your startup project and run it using ISS in visual studio
 
 You can run the UI app in VS Code if you wish make sure to run "npm install" in FileUpload\ClientApp to download package dependencies.
 
 If everything goes well, you should see the brower open and point to http://localhost:31238/.
+
+There are test csv files in API.Tests/TestCSVFiles
 
 ## Unit Tests
 - API Unit Tests: API.Tests hosts unit tests for API business layer
