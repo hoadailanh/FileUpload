@@ -5,8 +5,6 @@ Tools used: Visual Studio 2017, Node.js, Angular5, Boostrap 4.1.3, ng-boostrap 1
 Open FileUpload.sln in visual studio 2017. You should have node.js installed/integrated with VS 2017 for the UI app (angular 5) to download package dependencies. 
 Run the app (both UI and API): Build the solution and select FileUpload project as your startup project and run it using ISS in visual studio
 
-You can run the UI app in VS Code if you wish make sure to run "npm install" in FileUpload\ClientApp to download package dependencies.
-
 If everything goes well, you should see the brower open and point to http://localhost:31238/.
 
 There are test csv files in API.Tests/TestCSVFiles that you can use to test the application.
