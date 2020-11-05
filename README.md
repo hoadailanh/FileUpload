@@ -1,5 +1,5 @@
 # File Upload with Asp .NET Core 2.1 and Angular 5
-This application allows a user to upload a csv file and visualize it in a browser.
+This application allows a user to upload a csv file in any format and visualize it in a browser.
 Tools used: Visual Studio 2017, Node.js, Angular5, Boostrap 4.1.3, ng-boostrap 1.1.2, Asp .NET Core 2.1 Web API
 ## Instructions
 Open FileUpload.sln in visual studio 2017. You should have node.js installed/integrated with VS 2017 for the UI app (angular 5) to download package dependencies. 
