@@ -9,7 +9,7 @@ You can run the UI app in VS Code if you wish make sure to run "npm install" in 
 
 If everything goes well, you should see the brower open and point to http://localhost:31238/.
 
-There are test csv files in API.Tests/TestCSVFiles
+There are test csv files in API.Tests/TestCSVFiles that you can use to test the application.
 
 ## Unit Tests
 - API Unit Tests: API.Tests hosts unit tests for API business layer
