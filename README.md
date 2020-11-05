@@ -7,9 +7,8 @@ Run the app (both UI and API): Build the solution and select FileUpload project 
 
 If everything goes well, you should see the brower open and point to http://localhost:31238/.
 
-There are test csv files in API.Tests/TestCSVFiles that you can use to test the application.
-
-## Unit Tests
+## Test Files & Unit Tests
+- There are test csv files in API.Tests/TestCSVFiles that you can use to test the application.
 - API Unit Tests: API.Tests hosts unit tests for API business layer
 - UI Unit Tests: ClientApp/src/app/components/upload/upload.component.spec.ts contain unit tests for the upload component
 - UI e2e Tests: ClientApp/e2e
