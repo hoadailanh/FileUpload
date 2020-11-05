@@ -1,5 +1,5 @@
 # File Upload with Asp .NET Core 2.1 and Angular 5
-Source code is also avaialbe at: https://github.com/hoadailanh/FileUpload.git
+This application allows a user to upload a xsl file. The app parses the file and display the content in a grid.
 
 ## Instructions
 Tools used: Visual Studio 2017, Node.js, Angular5, Boostrap 4.1.3, ng-boostrap 1.1.2, Asp .NET Core 2.1 Web API
